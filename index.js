@@ -73,6 +73,7 @@ Person.prototype.toString = function() {
         + The `drive` method should return a string "I ran out of fuel at x miles!" x being `odometer`.
 */
 
+
 function Car(model, milesPerGallon) {
   this.model = model;
   this.milesPerGallon = milesPerGallon;
@@ -94,7 +95,7 @@ Car.prototype.drive = function(distance) {
 
     return "I ran out of fuel at " + this.odometer + "miles!";
   }
-};
+}
 
 /*
   TASK 3
