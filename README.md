@@ -32,6 +32,8 @@ Two options are included below.
   <img alt='instructions Code Sandbox' src='./instructionsCodeSandbox.png'>
 </details>
 
+ My link: https://codesandbox.io/s/js-exercise-prototype-nwz2x
+
 <details>
   <summary>2. Using VSCode and the Command Line</summary>
 
