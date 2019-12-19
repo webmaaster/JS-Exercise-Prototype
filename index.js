@@ -76,10 +76,10 @@ function Baby() {
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. In JavaSrcipt 'this' keyword refers to the object it belongs to
+  2. In a method 'this' keyword refers to the owner object
+  3. It can refer to the global object when used alone!
+  4. In a function, 'this' refers also to the global object.
 */
 
 
